@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027827424609",
+    "firebase_url": "https://bicicita-ed4dc-default-rtdb.firebaseio.com",
+    "project_id": "bicicita-ed4dc",
+    "storage_bucket": "bicicita-ed4dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027827424609:android:acf8d16d0554d4b1b3f920",
+        "android_client_info": {
+          "package_name": "com.figma_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027827424609-fqjladthqukrad8g0cgc4bb07u3f696e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mC52xTxaRLWFqTY9SG40e1K-jEfx-Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027827424609-fqjladthqukrad8g0cgc4bb07u3f696e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027827424609-4cafpcsgoqgh7i11ll7h2bs3v2hvkmsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.figma-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027827424609-4cafpcsgoqgh7i11ll7h2bs3v2hvkmsb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027827424609-4cafpcsgoqgh7i11ll7h2bs3v2hvkmsb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZkcN_kEYcG_RoSPMR5nH6a1H4st1THD8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027827424609</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.figma-app</string>
+	<key>PROJECT_ID</key>
+	<string>bicicita-ed4dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bicicita-ed4dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027827424609:ios:89edf37157580900b3f920</string>
+	<key>DATABASE_URL</key>
+	<string>https://bicicita-ed4dc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
